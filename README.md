@@ -8,4 +8,4 @@ SK엠앤서비스 서비스개발2팀에서 일하고 있는
 ## SKILL
     Java, SpringBoot, Javascript, Jquery
     Linux, Oracle, Mysql, MariaDB
-    git, jira, jenkins, scouter, Postman
+    Git, Jira, Jenkins, Scouter, Postman
