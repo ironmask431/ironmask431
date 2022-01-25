@@ -7,7 +7,7 @@ SK엠앤서비스 서비스개발2팀에서
 
 ## SKILL
     Java, SpringBoot, Javascript, Jquery
-    Linux, Tomcat, Oracle, Mysql, MariaDB
+    Linux, Tomcat, Oracle, Mysql
     Eclipse, Git, Jira, Jenkins, Scouter, Postman
     
     
