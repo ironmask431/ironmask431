@@ -14,4 +14,5 @@ SK엠앤서비스 서비스개발2팀에서
     
     
 ## SKILL Learning ... 
-    JPA, AWS, Docker, Junit, IntelliJ, Kubernetes, MSA..
+    JPA, AWS, Docker, Kubernetes, MSA,   
+    Junit, IntelliJ...
