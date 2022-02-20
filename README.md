@@ -7,8 +7,7 @@ SK엠앤서비스 서비스개발2팀에서
 블로그 : https://ironmask43.tistory.com/
 
 ## SKILL
-    Java, Javascript, Jquery,   
-    Spring, SpringBoot,   
+    Java, Javascript, Jquery,SpringBoot,   
     Linux, Tomcat, Oracle, Mysql,   
     Git, Jira, Jenkins
     
