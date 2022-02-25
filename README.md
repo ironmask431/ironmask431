@@ -6,10 +6,9 @@ SK엠앤서비스 서비스개발2팀에서
 
 ## SKILL
     Java, Javascript, Jquery, SpringBoot,   
-    Linux, Tomcat, Oracle, Mysql,   
+    Linux, Tomcat, Oracle, Mysql, 
     Git, Jira, Jenkins
     
     
 ## SKILL Learning ... 
-    JPA, AWS, Docker, Kubernetes, MSA,   
-    Junit Test
+    JPA, AWS, Docker, Kubernetes, Junit ... 
