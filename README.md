@@ -11,5 +11,4 @@ SK엠앤서비스 서비스개발2팀에서
     Java, Javascript, Jquery   
     SpringBoot, gradle, maven, mybatis, JPA, Junit   
     Oracle, Mysql, MariaDB 
-    Linux, Tomcat, AWS     
-    Git, Jira      
+    Linux, Tomcat, AWS, Git, Jira      
