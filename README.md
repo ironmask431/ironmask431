@@ -7,7 +7,9 @@ SK엠앤서비스 서비스개발2팀에서
 블로그 : https://ironmask43.tistory.com/
 
 ## SKILL
-    Java, Javascript, Jquery   
-    SpringBoot, gradle, maven, mybatis, JPA, Junit   
-    Oracle, Mysql, MariaDB 
-    Linux, Tomcat, AWS, Git, Jira      
+    Java, Javascript, Jquery, Jsp  
+    SpringBoot, Gradle, Maven, Mybatis 
+    Oracle, Mysql, Linux, Git, Jira     
+    
+## SKILL Learning..   
+    AWS, Junit, JPA.. 
