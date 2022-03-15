@@ -10,4 +10,4 @@ SK엠앤서비스 서비스개발2팀에서
     Oracle, Mysql, Linux, Git, Jira     
     
 ## SKILL Learning..   
-    AWS, Docker, Junit, JPA.. 
+    AWS, Docker, Junit, JPA, rabbitMQ..
