@@ -6,8 +6,9 @@ SK엠앤서비스 서비스개발2팀에서
 
 ## SKILL
     Java, Javascript, Jquery, Jsp  
-    SpringBoot, Gradle, Maven, Mybatis 
-    Oracle, Mysql, Linux, Git, Jira     
+    SpringBoot, Spring Security + Oauth2, JWT 
+    Gradle, Maven, Mybatis
+    Oracle, Mysql, Linux, Git, Jira   
     
 ## SKILL Learning..   
-    AWS, Docker, Junit, JPA, rabbitMQ..
+    Junit, JPA, AWS, Docker, rabbitMQ..
