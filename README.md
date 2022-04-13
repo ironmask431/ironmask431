@@ -10,4 +10,4 @@ SK엠앤서비스 서비스개발2팀에서
     Javascript, Jquery, Jsp
     
 ## SKILL Learning..   
-    Junit, JPA, AWS, Docker, rabbitMQ..
+    JPA, Junit, AWS, Docker, rabbitMQ, Kafka..
