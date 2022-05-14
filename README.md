@@ -1,8 +1,8 @@
 ### ironmask431
 
 안녕하세요.   
-IMAS(아이마스) 에서 일하고 있는    
-Java/Back-end 개발자 입니다.
+IMAS(아이마스) 에서 Java/Back-end 개발자로    
+일하고 있는 ironmask431 입니다.
 
 ## SKILL
     Java, SpringBoot, Spring Security + Oauth2, JWT 
