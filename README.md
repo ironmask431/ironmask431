@@ -25,6 +25,7 @@ Back-end 개발자 Kevin 입니다.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Drone CI](https://img.shields.io/badge/Drone_CI-212121?style=flat&logo=drone&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 
 
 
